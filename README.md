@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Botium Boys Secutiry Audit</b>
-   - [Botium Boys Compliance Checklist](https://github.com/VictoryMatthew/BotiumBoysComplianceChecklist)
+   - [Botium Boys Compliance Checklist](https://github.com/VictoryMatthew/BotiumBoysComplianceChecklist-/tree/main)
    - [Botium Boys Control Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
    - [Botium Boys Stakeholders Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux File Permissions</b>
