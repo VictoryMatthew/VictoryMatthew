@@ -7,7 +7,7 @@
    - [Botium Boys Control Assessment](https://github.com/VictoryMatthew/BotiumBoysControlAssessment)
    - [Botium Boys Stakeholders Memorandum](https://github.com/VictoryMatthew/StakeholdersMemorandum)
 - <b>Linux File Permissions</b>
-   - [File permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [File permissions in Linux](https://github.com/VictoryMatthew/LinuxFilePermissions)
 - <b>SQL Queries</b>
   - [SQL queries](https://github.com/VictoryMatthew/SQLQuerieslab)
 - <b>Incident Response with NIST CSF</b>
