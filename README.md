@@ -13,7 +13,7 @@
 - <b>Incident Response with NIST CSF</b>
   - [Respond to an incident with NIST CSF](https://github.com/VictoryMatthew/IncidentResponceWithNISTCSF)
 - <b>Vulnerability assessment</b>
-  - [Analyze a vulnerable system for a small business](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Analyze a vulnerable system for a small business](https://github.com/VictoryMatthew/VulnerabilityAssessment)
 - <b>Incident Handlers Journal</b>
   - [My Incident Handlers Journal](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Python</b>
