@@ -9,7 +9,7 @@
 - <b>Linux File Permissions</b>
    - [File permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Queries</b>
-  - [SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SQL queries](https://github.com/VictoryMatthew/SQLQuerieslab)
 - <b>Incident Response with NIST CSF</b>
   - [Respond to an incident with NIST CSF](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability assessment</b>
