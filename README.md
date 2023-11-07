@@ -22,7 +22,7 @@
 
 <h2> Certifications</h2>
 
-- [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate](https://coursera.org/share/fcad42e19e19ea6acd98a61687a0e9a8)
 - [ISC2](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [AWS Cloud Practitioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
