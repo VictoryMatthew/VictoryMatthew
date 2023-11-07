@@ -11,7 +11,7 @@
 - <b>SQL Queries</b>
   - [SQL queries](https://github.com/VictoryMatthew/SQLQuerieslab)
 - <b>Incident Response with NIST CSF</b>
-  - [Respond to an incident with NIST CSF](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Respond to an incident with NIST CSF](https://github.com/VictoryMatthew/IncidentResponceWithNISTCSF)
 - <b>Vulnerability assessment</b>
   - [Analyze a vulnerable system for a small business](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Incident Handlers Journal</b>
