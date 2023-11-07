@@ -24,7 +24,7 @@
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/fcad42e19e19ea6acd98a61687a0e9a8)
 - [ISC2](https://www.credly.com/badges/aedbe1b4-4186-41c2-be6a-c455010a6b03/public_url)
-- [AWS Cloud Practitioner]()
+- [AWS Cloud Practitioner - On going]()
   
 <h2> 🤳 Connect with me:</h2>
 
