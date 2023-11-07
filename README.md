@@ -5,7 +5,7 @@
 - <b>Botium Boys Secutiry Audit</b>
    - [Botium Boys Compliance Checklist](https://github.com/VictoryMatthew/BotiumBoysComplianceChecklist-/tree/main)
    - [Botium Boys Control Assessment](https://github.com/VictoryMatthew/BotiumBoysControlAssessment)
-   - [Botium Boys Stakeholders Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Botium Boys Stakeholders Memorandum](https://github.com/VictoryMatthew/StakeholdersMemorandum)
 - <b>Linux File Permissions</b>
    - [File permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Queries</b>
