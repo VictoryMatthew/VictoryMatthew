@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victory Matthew! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Security Operations Center Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Seeking Internship or an entry-level opportunity</a></h1>
+<h1>Hi, I'm Victory Matthew! <br/><a href="https://www.linkedin.com/in/victory-matthew/">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Security Operations Center Analyst</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Seeking Internship or an entry-level opportunity</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -24,19 +24,8 @@
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/fcad42e19e19ea6acd98a61687a0e9a8)
 - [ISC2](https://www.credly.com/badges/aedbe1b4-4186-41c2-be6a-c455010a6b03/public_url)
-- [AWS Cloud Practitioner]()
+- [AWS Cloud Practitioner](https://github.com/VictoryMatthew/AWSCloudPractitioner)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/victory-matthew
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
