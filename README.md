@@ -19,7 +19,7 @@
 - <b>Python</b>
   - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/PythonProjects)
 - <b>Wireshark lab</b>
-  - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/PythonProjects)
+  - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/Wireshark)
 
 
 <h2> Certifications</h2>
