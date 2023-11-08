@@ -19,9 +19,9 @@
 - <b>Python</b>
   - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/PythonProjects)
 - <b>Wireshark lab</b>
-  - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/Wireshark)
+  - [Inspecting .pcap packets](https://github.com/VictoryMatthew/Wireshark)
 - <b>Using a playbook to respond to a phishing Incident</b>
-  - [Update a file using Python Algorithm](https://github.com/VictoryMatthew/UseAPlayBookToRespondToAPhishingIncident)
+  - [Using a playbook to respond to a phishing Incident](https://github.com/VictoryMatthew/UseAPlayBookToRespondToAPhishingIncident)
 
 
 <h2> Certifications</h2>
