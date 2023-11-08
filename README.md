@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Botium Boys Secutiry Audit</b>
+- <b>Botium Boys Security Audit</b>
    - [Botium Boys Compliance Checklist](https://github.com/VictoryMatthew/BotiumBoysComplianceChecklist-/tree/main)
    - [Botium Boys Control Assessment](https://github.com/VictoryMatthew/BotiumBoysControlAssessment)
    - [Botium Boys Stakeholders Memorandum](https://github.com/VictoryMatthew/StakeholdersMemorandum)
