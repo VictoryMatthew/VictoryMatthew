@@ -23,7 +23,7 @@
 - <b>Using a playbook to respond to a phishing Incident</b>
   - [Using a playbook to respond to a phishing Incident](https://github.com/VictoryMatthew/UseAPlayBookToRespondToAPhishingIncident)
 - <b>Suricata lab</b>
-  - [Examine alerts, logs and custom rules in Suricata](https://github.com/VictoryMatthew/UseAPlayBookToRespondToAPhishingIncident)
+  - [Examine alerts, logs and custom rules in Suricata](https://github.com/VictoryMatthew/SuricataLabs)
 
 
 <h2> Certifications</h2>
