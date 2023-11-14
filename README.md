@@ -31,11 +31,13 @@
 - [Google Cybersecurity Certificate](https://coursera.org/share/fcad42e19e19ea6acd98a61687a0e9a8)
 - [ISC2](https://www.credly.com/badges/aedbe1b4-4186-41c2-be6a-c455010a6b03/public_url)
 - [AWS Cloud Practitioner](https://github.com/VictoryMatthew/AWSCloudPractitioner)
-- [learning Splunk](https://github.com/VictoryMatthew/AWSCloudPractitioner)
-- [SIEM: Event Management with Splunk Security](https://github.com/VictoryMatthew/AWSCloudPractitioner)
-- [SIEM 101](https://github.com/VictoryMatthew/AWSCloudPractitioner)
-- [Learning the OWASP top 10](https://github.com/VictoryMatthew/AWSCloudPractitioner)
-- [CISCO packet tracer](https://github.com/VictoryMatthew/AWSCloudPractitioner)
+- [learning Splunk](https://www.linkedin.com/learning/certificates/16d62e033b3255166b36bca5dd1627a5adc07380082888fa52c4089cc935b637)
+- [SIEM: Event Management with Splunk Security](https://www.linkedin.com/learning/certificates/3f6a40708eed17f4b560704989a33e468033671bc56b261a26a7c340b25bd504)
+- [SIEM 101 by Letsdefend]
+- [Learning the OWASP top 10](https://www.linkedin.com/learning/certificates/7d7b8f867b5f89cc6ea2a0fc75968c7a2262bc7d65e211cddbd9486e39bcb0ab))
+- [CISCO packet tracer]
+- [Qualys Vulnerability Management, Detection and Response (VMDR) - waiting for exam]
+  
   
 <h2> 🤳 Connect with me:</h2>
 
