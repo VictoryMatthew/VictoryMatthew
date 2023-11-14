@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victory Matthew! <br/><a href="https://www.linkedin.com/in/victory-matthew/">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Security Operations Center Analyst</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Seeking Internship or an entry-level opportunity</a></h1>
+<h1>Hi, I'm Victory Matthew! <br/><a href="https://www.linkedin.com/in/victory-matthew/">Junior Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Security Operations Center (SOC) Analyst L1</a>, <a href="https://www.linkedin.com/in/victory-matthew/">Seeking Internship or an entry-level opportunity</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
